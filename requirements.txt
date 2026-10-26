@@ -1,0 +1,6 @@
+streamlit
+pandas
+Pillow
+requests
+python-pptx
+reportlab
